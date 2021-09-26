@@ -1,0 +1,12 @@
+.header{
+    background-color: #26d0c9;
+    color:#fff;
+    height: 90px;
+    
+}
+.list a{
+    float: left;
+    font-size:40px ;
+    padding: 33px 20px;
+    list-style: none;
+}
